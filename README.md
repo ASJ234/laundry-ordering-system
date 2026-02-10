@@ -86,6 +86,9 @@ cp .env.example .env
 # Edit .env with your configuration
 npm run dev
 ```
+## How to generate the jwt secret
+- node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
+
 
 3. **Setup Frontend**
 
