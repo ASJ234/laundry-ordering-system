@@ -56,7 +56,7 @@ laundry-ordering-system/
 
 - Node.js
 - Express.js
-- MongoDB with Mongoose
+- Postgress
 - JWT Authentication
 - bcryptjs
 
@@ -65,7 +65,7 @@ laundry-ordering-system/
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- MongoDB (local or Atlas)
+- Postgress
 - npm or yarn
 
 ### Installation
